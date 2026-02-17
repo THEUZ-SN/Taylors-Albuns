@@ -166,7 +166,7 @@ document.addEventListener("DOMContentLoaded", () => {
       title: "The Life Of A Showgirl",
       year: 2025,
       genre: "Pop",
-      cover: "assets/showgirl.jpg",
+      cover: "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
       tracks: [
         "The Life of A Showgirl",
         "Showgirl",
@@ -202,3 +202,4 @@ document.addEventListener("DOMContentLoaded", () => {
   const spotifyEmbed = document.getElementById("spotify-embed");
   spotifyEmbed.innerHTML = `<iframe style="border-radius:12px" src="${album.spotify}" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>`;
 });
+
