@@ -3,7 +3,7 @@
 Este é um site que apresenta os álbuns da Taylor Swift.  
 Você pode acessá-lo pelo GitHub Pages no link abaixo:
 
-👉 [Acessar o site](https://theuz-sn.github.io/Taylors-Albuns/)
+👉 [Acessar o site](https://theuzsn.github.io/Taylor-s-Albuns/)
 
 ---
 
@@ -23,4 +23,3 @@ Projeto criado para praticar **desenvolvimento web** e explorar conceitos de **f
 ---
 
 ✍️ Feito com 💜 por [Theuzsn](https://github.com/theuzsn)
-
